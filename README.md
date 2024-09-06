@@ -51,3 +51,22 @@ This is a full-featured blog website built using Django. The website allows user
    ```bash
    git clone https://github.com/your-username/django-blog-website.git
    cd django-blog-website
+2. **Install the Required Dependencies: Ensure you have pipenv or a similar virtual environment tool:**
+
+   ```bash
+   pip install -r requirements.txt
+3. Apply Migrations: To set up the database and create the necessary tables, run:
+
+   ```bash
+   python manage.py migrate
+4. Run the Development Server: Start the Django development server:
+
+   ```bash
+   python manage.py runserver
+Now, visit http://127.0.0.1:8000/ to see the website in action.
+
+###Usage
+**Homepage: Visit the home page to navigate to different sections of the blog.
+Search: Use the search bar to find posts by keywords in the title, author name, or content.
+Sign Up / Log In: Create a new account or log in with an existing one to post comments on blog posts.
+Commenting: Once logged in, visit a post and leave a comment or reply to existing comments.**
