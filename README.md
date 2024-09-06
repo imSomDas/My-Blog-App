@@ -66,10 +66,11 @@ This is a full-featured blog website built using Django. The website allows user
 Now, visit http://127.0.0.1:8000/ to see the website in action.
 
 ### Usage
---**Homepage:** Visit the home page to navigate to different sections of the blog.
 
---**Search:** Use the search bar to find posts by keywords in the title, author name, or content.
+**Homepage:** Visit the home page to navigate to different sections of the blog.
 
---**Sign Up / Log In:** Create a new account or log in with an existing one to post comments on blog posts.
+**Search:** Use the search bar to find posts by keywords in the title, author name, or content.
 
---**Commenting:** Once logged in, visit a post and leave a comment or reply to existing comments.
+**Sign Up / Log In:** Create a new account or log in with an existing one to post comments on blog posts.
+
+**Commenting:** Once logged in, visit a post and leave a comment or reply to existing comments.
